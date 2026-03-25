@@ -1,0 +1,6 @@
+.:
+a
+app.js
+list.txt
+out1.txt
+README.md
